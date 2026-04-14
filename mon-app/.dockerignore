@@ -3,7 +3,12 @@ node_modules/
 vendor/
 __pycache__/
 *.pyc
-
+node_modules
+npm-debug.log
+.git
+.gitignore
+Dockerfile
+README.md
 # Git et IDE
 .git/
 .gitignore
